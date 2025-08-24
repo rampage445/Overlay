@@ -1,3 +1,5 @@
+## The code for this project will be accessible on my portfolio website
+
 ## Tools & Libraries
 1. Django
 2. Websockets
