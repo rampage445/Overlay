@@ -1,4 +1,7 @@
-## The code for this project will be accessible on my portfolio website
+# The code for this project will be accessible on my portfolio website
+
+# Project Summary with Video
+[Watch the video](https://raw.githubusercontent.com/rampage445/Overlay/main/video/overlay.mkv)
 
 ## Tools & Libraries
 1. Django
